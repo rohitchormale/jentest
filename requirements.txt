@@ -1,1 +1,2 @@
-django
+-e git+https://github.com/rohitchormale/jentest.git@2b854314a29dd56c1977736b8eaf25a1e532960c#egg=jentest
+nose==1.3.7
