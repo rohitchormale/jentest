@@ -19,6 +19,9 @@ class FooTestCase(unittest.TestCase):
     def test_sum3(self):
         self.assertEqual(sum(0, -2), -2)
 
+    def test_sum4(self):
+        self.assertEqual(sum(1,3), 7)
+
 
 
 if __name__ == "__main__":
