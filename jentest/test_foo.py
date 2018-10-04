@@ -20,7 +20,7 @@ class FooTestCase(unittest.TestCase):
         self.assertEqual(sum(0, -2), -2)
 
     def test_sum4(self):
-        self.assertEqual(sum(1,3), 7)
+        self.assertEqual(sum(1,3), 4)
 
 
 
