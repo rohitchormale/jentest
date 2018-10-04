@@ -22,7 +22,8 @@ class FooTestCase(unittest.TestCase):
     def test_sum4(self):
         self.assertEqual(sum(1,3), 4)
 
-
+    def test_sum5(self):
+        self.assertEqual(sum(0,0), 0)
 
 if __name__ == "__main__":
     unittest.main()
