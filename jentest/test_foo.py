@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Test cases
+"""
 
 __author__ = 'Rohit Choramle'
 
